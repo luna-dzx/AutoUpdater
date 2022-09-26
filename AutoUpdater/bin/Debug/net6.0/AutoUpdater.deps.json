@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AutoUpdater/1.0.0": {
+        "dependencies": {
+          "Octokit": "3.0.0"
+        },
+        "runtime": {
+          "AutoUpdater.dll": {}
+        }
+      },
+      "Octokit/3.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoUpdater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Octokit/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IM7sDD1DSu+6jiFKcRyB8Tb0CZlPJ7nnBdPnhCXEToEZWJAlr/01PVk/UTRiCutF62Dni3n2gZWJrusLytxzpw==",
+      "path": "octokit/3.0.0",
+      "hashPath": "octokit.3.0.0.nupkg.sha512"
+    }
+  }
+}
