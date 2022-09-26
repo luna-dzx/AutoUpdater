@@ -1,6 +1,0 @@
-/run/media/luna/Work/old x drive/Programming and Making Music/Programming/C#/Auto Updating/AutoUpdater/AutoUpdater/bin/Debug/net6.0/win-x64/publish/AutoUpdater.exe
-/run/media/luna/Work/old x drive/Programming and Making Music/Programming/C#/Auto Updating/AutoUpdater/AutoUpdater/bin/Debug/net6.0/win-x64/publish/AutoUpdater.dll
-/run/media/luna/Work/old x drive/Programming and Making Music/Programming/C#/Auto Updating/AutoUpdater/AutoUpdater/bin/Debug/net6.0/win-x64/publish/AutoUpdater.deps.json
-/run/media/luna/Work/old x drive/Programming and Making Music/Programming/C#/Auto Updating/AutoUpdater/AutoUpdater/bin/Debug/net6.0/win-x64/publish/AutoUpdater.runtimeconfig.json
-/run/media/luna/Work/old x drive/Programming and Making Music/Programming/C#/Auto Updating/AutoUpdater/AutoUpdater/bin/Debug/net6.0/win-x64/publish/AutoUpdater.pdb
-/run/media/luna/Work/old x drive/Programming and Making Music/Programming/C#/Auto Updating/AutoUpdater/AutoUpdater/bin/Debug/net6.0/win-x64/publish/Octokit.dll
